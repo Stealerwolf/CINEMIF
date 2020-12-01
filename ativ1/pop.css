@@ -1,0 +1,25 @@
+body {
+    background-color:black;
+  }
+  h1 {
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    margin-top: 0%;
+    padding-top: 0%;
+
+  }
+  h2{
+      color: white;
+      text-align: center;
+      color: black;
+      font-family: fantasy;
+      word-spacing: 30px;
+      margin-top: 0%;
+      padding-top: 0%;
+  }
+  p {
+      color: white;
+  }
+  
+  

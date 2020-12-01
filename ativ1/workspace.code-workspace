@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ativ1"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "edge",
+				"request": "launch",
+				"name": "Open índex.html",
+				"file": "c:\\Users\\davim\\Desktop\\ativ1\\índex.html"
+			}
+		]
+	}
+}

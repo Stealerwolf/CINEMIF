@@ -22,9 +22,9 @@ body {
       text-align: center;
       font-family: fantasy;
       margin-top: 0%;
-    padding-top: 0%;
-    font-size: 30px;
-    text-shadow: 2px 2px 5px red;
+      padding-top: 0%;
+      font-size: 30px;
+      text-shadow: 2px 2px 5px red;
   }
   .p1 {
       color: rgb(223, 2, 2);
@@ -74,6 +74,21 @@ body {
     width: 5px;
     height: 5px;
 
+   }
+   .john{
+     color:white;
+     font-family: fantasy;
+     font-size: 20px;
+     text-shadow: 2px 2px 5px black;
+     margin-left: 2%;
+      
+   }
+   .niga{
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px black;
+    margin-left: 10%;
    }
 
    

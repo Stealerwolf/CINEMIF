@@ -5,22 +5,23 @@ body {
   }
   h1 {
     color: white;
+    background-color: black;
     text-align: center;
     font-family: fantasy;
-    margin-top: 0%;
-    padding-top: 0%;
-    
-  }
-  h2{
-      color: white ;
-      background-color: black;
-      text-align: center;
-      font-family: fantasy;
-      word-spacing: 25px;
-      margin-top: -1.9%;
+    word-spacing: 25px;
+     margin-top: -0.7%;
       margin-right: -0.6%;
       margin-left: -0.6%;
       padding-top: 0%;
+      font-size: 25px;
+  }
+  h2{
+      color: white ;
+      text-align: center;
+      font-family: fantasy;
+      margin-top: 0%;
+    padding-top: 0%;
+    font-size: 30px;
   }
   .p1 {
       color: rgb(223, 2, 2);

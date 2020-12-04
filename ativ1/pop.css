@@ -14,6 +14,7 @@ body {
       margin-left: -0.6%;
       padding-top: 0%;
       font-size: 25px;
+     text-shadow:2px 2px 5px darkred;
   }
   h2{
       color: white ;
@@ -22,12 +23,14 @@ body {
       margin-top: 0%;
     padding-top: 0%;
     font-size: 30px;
+    text-shadow: 2px 2px 5px red;
   }
   .p1 {
       color: rgb(223, 2, 2);
       font-family: fantasy;
       margin-top: 3%;
       font-size: 40px;
+      text-shadow: 2px 2px 5px black;
 
   }
   .center {
@@ -43,23 +46,26 @@ body {
   }
   .p2{
     color: red;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+    font-family: fantasy;
+    font-size: 25px;
     margin-top: -1%;
+    text-shadow: 2px 2px 5px black;
+
   }
   
   
    table{
     width: 50%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: fantasy;
     color: rgb(248, 0, 0);
     margin:auto;
    }
 
    .p3{
-    color: rgb(255, 253, 253);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+    color: red;
+    font-family: fantasy;
+    font-size: 25px;
+    text-shadow: 2px 2px 5px black;
    }
 
    .cor{
